@@ -4,7 +4,7 @@
 
 ## Acesse o projeto
 
-Para acessar o projeto, entre no [link](https://emersonlimaa.github.io/clock_design}
+Para acessar o projeto, entre no [link](https://emersonlimaa.github.io/clock_design/)
 
 ##  🧪 Tecnologias
 
